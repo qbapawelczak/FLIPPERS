@@ -1,0 +1,21 @@
+# NEVER upload data
+data/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+
+# R
+.Rhistory
+.RData
+
+# Stata
+*.gph
+*.smcl
+*.stswp
+*.ster
+
+# macOS junk
+.DS_Store
